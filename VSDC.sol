@@ -1,8 +1,9 @@
 
 //
 // VSDC
-// Interface: Payship.org
-// Contract: Token Contract V1
+// Interface: https://payship.org
+// Telegram: https://t.me/payship
+// Contract: Stability Token Contract V1
 // May 2021
 //
 
@@ -12,11 +13,11 @@
 //    []    []     []  []  []  []  //
 //    []    []     []  []  [][]]   //
 //                                 //
-//  DYOR NFA YOLO  TRENDERING.COM  //
+//  DYOR NFA YOLO        TRND.DEV  //
 //                                 //
 // /////////////////////////////// //
 
-// Copyright (C) 2021 TRND
+// Copyright (C) 2021 TRND.DEV
 
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
